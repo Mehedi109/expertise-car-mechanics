@@ -1,15 +1,9 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
 
-// const banner = [
-//     { img: 'https://i.ibb.co/Rz4by47/banner-1.jpg' },
-//     { img: 'https://i.ibb.co/SwPVbBB/banner-2.jpg' },
-//     { img: 'https://i.ibb.co/rwqQCr0/banner-3.jpg' }
-// ]
-
-import banner1 from '../../../images/banner/banner-4.jpg';
-import banner2 from '../../../images/banner/banner-5.jpg';
-import banner3 from '../../../images/banner/banner-6.jpg';
+import banner1 from '../../../images/banner/banner-1.jpg';
+import banner2 from '../../../images/banner/banner-2.jpg';
+import banner3 from '../../../images/banner/banner-3.jpg';
 
 const Banner = () => {
     return (
